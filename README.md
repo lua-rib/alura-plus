@@ -5,7 +5,7 @@ Este é um projeto de landing page inspirado no serviço **Alura Plus**, desenvo
 ## 🔗 Demonstração
 
 Você pode acessar o projeto online clicando no link abaixo:
-👉 [Alura Plus - Live Demo](https://vercel.com/lua-ribs-projects/alura-plus)
+👉 [Alura Plus - Live Demo](https://alura-plus-beryl-six.vercel.app/)
 
 ## 🛠️ Tecnologias Utilizadas
 
